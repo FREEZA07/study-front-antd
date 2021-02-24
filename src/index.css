@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+
+.common-style {
+  margin: 30px;
+}
